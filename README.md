@@ -1,4 +1,4 @@
-# Banco Inter Test API
+# Example Rest API - Spring
 
 This is a restful API from Jobs and Tasks, built using Spring Framework, Spring boot, Spring Rest and an in memory database HSQLDB.
 The project consists of Jobs, included in an unary tree structure, and task list that are related to a job.  It is possible to manipulate both Taks and Jobs using the HTTP verbs PUT, GET, POST, DELETE. 
